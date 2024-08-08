@@ -1,0 +1,12 @@
+Frequent subgraph mining
+    - Tiếp cận dựa trên Apriori: FSG
+    - Tiếp cận dựa trên Pattern-growth: gSpan HƯNG
+    - Tiếp cận dựa trên tham lam: Subdue UYÊN
+Graph partition (colab 3) KHOA
+Girvan Newman và edge betweenness
+Spectral clustering
+Louvain 
+Label propagation
+Node embedding
+Deepwalk
+Node2vec
